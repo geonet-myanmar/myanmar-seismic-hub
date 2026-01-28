@@ -303,7 +303,7 @@ Update the `<script>` and `<link>` tags in `index.html` to reference local files
 1. Push repository to GitHub
 2. Go to repository Settings → Pages
 3. Select branch (e.g., `main`) and root folder
-4. Save and access via `https://username.github.io/repository-name/`
+4. Save and access via `https://geonet-myanmar.github.io/myanmar-seismic-hub/`
 
 ### Static Hosting
 Deploy to any static hosting service:
