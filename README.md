@@ -346,7 +346,11 @@ This is a standalone project. For improvements or bug reports:
 
 ## License
 
-This project appears to be educational/research software. Check with the original author for licensing terms.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+    - GeoNet Myanmar
+    - Email: geonet.myanmar@gmail.com
 
 ## Credits
 
@@ -359,7 +363,7 @@ This project appears to be educational/research software. Check with the origina
 
 ## Version History
 
-- **V4_Final**: Current version with complete USGS integration, interactive filtering, and export functionality
+- Current version with complete USGS integration, interactive filtering, and export functionality
 
 ## Support
 
