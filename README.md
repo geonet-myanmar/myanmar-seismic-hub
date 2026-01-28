@@ -1,4 +1,4 @@
-# Seismic Dashboard (USGS + CSV)
+# Myanmar Seismic Hub (USGS + CSV)
 
 This folder contains a lightweight, no-build dashboard that can:
 - Fetch earthquake CSV data from the USGS search API (user-defined time range, magnitude, depth)
