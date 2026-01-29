@@ -111,7 +111,7 @@ A comprehensive, no-build interactive dashboard for visualizing and analyzing ea
 
 1. **Clone or download this repository**
    ```bash
-   cd V4_Final
+   cd myanmar-seismic-hub
    ```
 
 2. **Start a local server**
