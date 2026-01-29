@@ -981,7 +981,7 @@ function main() {
       // Most common cause: opening index.html via file:// (no fetch), or missing server.
       console.warn(err);
       setStatus(
-        "Could not fetch query.csv. Use a local server (see footer) or click Upload CSV."
+        "Could not fetch query.csv. Use a local server (see documentation) or click Upload CSV."
       );
     }
   });
