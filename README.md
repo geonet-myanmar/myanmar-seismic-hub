@@ -184,8 +184,6 @@ V4_Final/
 ├── index.html          # Main HTML structure and layout
 ├── styles.css          # Complete styling with custom dark theme
 ├── app.js              # Core application logic (991 lines)
-├── query.csv           # Sample earthquake data (optional)
-├── chatLog.txt         # Development log (optional)
 └── README.md           # This documentation file
 ```
 
