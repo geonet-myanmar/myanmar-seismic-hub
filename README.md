@@ -179,8 +179,6 @@ A comprehensive, no-build interactive dashboard for visualizing and analyzing ea
 ## File Structure
 
 ```
-V4_Final/
-│
 ├── index.html          # Main HTML structure and layout
 ├── styles.css          # Complete styling with custom dark theme
 ├── app.js              # Core application logic (991 lines)
